@@ -3,7 +3,7 @@ How to add custom fonts to your web-site
 
 this project shows how to upload your own fonts. 
 instractions:
-1.open a floder name fonts in your project.
+1.open a folder name fonts in your project.
 2.transfer your font type .tff (can be also a different extansion) to the fonts llibrary.
 3.copy & paste the html & css files.
 4.please note: in the style.css in the header of the code, 
